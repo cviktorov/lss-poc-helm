@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   lss-poc-application:
   - apiVersion: v1
-    created: "2020-07-02T16:32:22.300947+03:00"
+    created: "2020-07-08T10:27:36.887586+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d3c768b04c65c9f1980992a37d9c0876b1dac99d59153a2f5f98d7c2dee0079a
+    name: lss-poc-application
+    type: application
+    urls:
+    - https://cviktorov.github.io/lss-poc-helm/lss-poc-application-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: "2020-07-08T10:27:36.886908+03:00"
     description: A Helm chart for Kubernetes
     digest: c15b2cb40237eb7c4ab8ffabbe8e466e70e74c1dddaeeeb9b338d2f2a0c094d0
     name: lss-poc-application
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://cviktorov.github.io/lss-poc-helm/lss-poc-application-0.2.0.tgz
     version: 0.2.0
-generated: "2020-07-02T16:32:22.297543+03:00"
+generated: "2020-07-08T10:27:36.88408+03:00"
